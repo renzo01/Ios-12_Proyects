@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  05-QuizApp
+
+  Created by Walter gomez on 2/26/19.
+  Copyright © 2019 Walter gomez. All rights reserved.
+*/
+//Create a direccion for Xcode can found the file
+// pop-up of game over
+"gane.over.title" = "Fin del juego";
+"game.over.message1" = "Haz Ganado";
+"game.over.message2" = "¡Prueba otra vez!";
+
+// Score
+"score.text"  = "Puntuacion : "
+"question.ok" = "¡Felicitaciones!"
+"question.ko" = "Lastima....."

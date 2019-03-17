@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>questions</key>
+	<array>
+		<dict>
+			<key>Explanation</key>
+			<string>En efecto disponen de tanto dinero que podrian eliminar la probresa mundial</string>
+			<key>Question</key>
+			<string>El Baticano tiene la cantidad de dinero sufuciente para alimentar a la tierra 2 veces</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>El caballito de mar es tan fiel a su pareja, que cuando uno se muere , el otro tambien lo hace al poco tiempo</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>El Humano  , es el unico ser vivo que parctica el sexo por diversion </string>
+			<key>Answere</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>La semilla de la manzana contienen cianuro y es toxico</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Se puede afeitar el bigotes a un gato sin ningun rasgunio</string>
+			<key>Answere</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Un coala necesita beber almenos una vez al dia</string>
+			<key>Answere</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Edison, el inventor de la bombilla, temia a la oscuridad y por eso invento la bombilla</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Los escorpiones son los unicos animales que se suicidan cuando no pueden escapar</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Los ojos de los hamsters se pueden caer si son colgados boca arriva</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Si se divide el numero de abejas hembra, con el numero de abejas macho se obtiene el numero del oro</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Las palmeras nacieron por primera vez en el polo norte</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Explanation</key>
+			<string></string>
+			<key>Question</key>
+			<string>Cervantes y Sheakspier murieron en el mismo dia</string>
+			<key>Answere</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>

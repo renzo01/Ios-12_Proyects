@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Falso"; ObjectID = "C8M-sQ-MPk"; */
+"C8M-sQ-MPk.normalTitle" = "Faux";
+
+/* Class = "UIButton"; normalTitle = "Verdadero"; ObjectID = "KEL-0W-s79"; */
+"KEL-0W-s79.normalTitle" = "Vrai";
+
+/* Class = "UILabel"; text = "Puntuacion : 9999"; ObjectID = "Tx1-EV-ZbF"; */
+"Tx1-EV-ZbF.text" = "Marquer : 9999";
+
+/* Class = "UILabel"; text = "XX/10"; ObjectID = "dkQ-YG-eGT"; */
+"dkQ-YG-eGT.text" = "XX/10";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sCn-jw-7bF"; */
+"sCn-jw-7bF.text" = "Label";
