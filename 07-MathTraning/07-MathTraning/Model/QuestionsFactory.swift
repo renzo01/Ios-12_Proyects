@@ -15,6 +15,7 @@ class QuestionsFactory{
     //(set) =  setter
     private(set) var score: Int = 0
     
+    
     init() {
         self.addNewQuestion()
     }
@@ -59,5 +60,13 @@ class QuestionsFactory{
             
         }
         return Question(text: question, Answer : correctAnswer, userAnswer: nil)
+    }
+    func updateQuestion (at index: Int, with answer: Int){
+        questions[index].userAnswer = answer
+    }
+    func validateQuestion (at index: Int){
+        if self.questions[index].userAnswer == self.questions[index].Answer{
+            self.score += 100 
+        }
     }
 }
